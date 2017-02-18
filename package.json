@@ -1,0 +1,15 @@
+{
+  "name": "runoob-react-text",
+  "version": "1.0.0",
+  "description": "react_test",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0"
+  }
+}
